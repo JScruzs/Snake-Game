@@ -1,4 +1,10 @@
+# Se hace la debida importacion de la libreria Turtle.
+
 from turtle import Turtle
+
+# se definen las posiciones iniciales en las que
+# aparecen los segmentos los cuales conforman
+# el cuerpo de la serpiente
 
 STARTING_POSITIONS = [(0,0),(-20,0),(-40,0)]
 MOVE_DISTANCE = 20
